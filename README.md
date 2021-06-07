@@ -125,8 +125,10 @@ To access a file via browser, for example to watch a film or download it, just o
 
  
 I am a friedly ghost of Jerzy. As ghosts do not exist, nor does any liability for this library.
-Donations would allow me to buy more hardware needed for building up this library of books, films, and other content.
 
+## Donations
+
+Donations would allow me to buy more hardware needed for building up this library of books, films, and other content.
 
 Monero (XMR):
 
